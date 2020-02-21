@@ -40,6 +40,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 
 # ADDED GEMS
 gem 'simple_form'
+gem 'cloudinary', '~> 1.12.0'
 
 
 
